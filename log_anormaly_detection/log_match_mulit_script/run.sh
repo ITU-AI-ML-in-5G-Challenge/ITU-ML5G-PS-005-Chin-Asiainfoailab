@@ -1,0 +1,1 @@
+bash start.sh /data/output/logAnomalyDetect/pickle_files/template_words.json '{"host":"10.15.49.41","password":"ftP!123","port":22021,"username":"ftpUser"}' topic_log
